@@ -44,3 +44,4 @@ Full-Stack Developer
 Skills: .NET, Angular, MySQL, MongoDB, REST APIs
 📎 License
 This project is for learning and portfolio purposes.
+Screenshots(https://drive.google.com/drive/folders/12XkkySh8ZS1lIYZBP9kmQfvz3pTOWDfA?usp=drive_link)
